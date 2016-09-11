@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="provinsi">
+        <item>DKI Jakarta</item>
+        <item>Jawa Barat</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Timur</item>
+        <item>Bali</item>
+        <item>NTB</item>
+        <item>NTT</item>
+        <item>Maluku</item>
+        <item>Papua</item>
+    </string-array>
+</resources>
